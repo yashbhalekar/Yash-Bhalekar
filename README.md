@@ -1,6 +1,6 @@
 ### Hi there 👋, Yash Bhalekar
 #### Software Developer
-![Software Developer](https://github.com/yashbhalekar/YashBhalekar/blob/main/banner.png)
+![Software Developer](https://github.com/yashbhalekar/YashBhalekar/blob/main/banner2.png)
 
 I'm Yash from India, Pune City.
 I'm  a Software Developer.
