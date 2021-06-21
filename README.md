@@ -7,14 +7,15 @@
 I'm Yash from India, Pune City.
 I'm  a Software Developer.
 I love learning different foreign languages.
+Currently I know Spanish (Beginner)
 I like programming in Python.
 On the way to become a Cloud Developer.
 
 Skills: PYTHON / C  / HTML / CSS
 
-- 🔭 I’m currently working on A Tic Tac Toe Project 
-- 🌱 I’m currently learning Python 
-- 📫 How to reach me: Instagram 
+- 🔭 I’m currently working on a Project. 
+- 🌱 I’m currently learning Python. 
+- 📫 How to reach me: Instagram. 
 - ⚡ Fun fact: There are 7000 different programming languages. 
 
 
