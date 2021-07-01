@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm YASH BHALEKAR</h1>
 <h3 align="center">A Software Developer from India</h3>
 
-- 🔭 I’m currently working on **A E-Commerce Website**
+- 🔭 I’m currently working on **Projects**
 
-- 🌱 I’m currently learning **Django and PyGame**
+- 🌱 I’m currently learning **Kivy and PyGame**
 
-- 🤝 I’m looking for help with **Django**
+- 🤝 I’m looking for help with **Kivy**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashbhalekar](https://github.com/yashbhalekar)
 
