@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm YASH BHALEAKR</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **C , Android**
+- 💬 Ask me about **C , Python**
 
 - 📫 How to reach me **Yashbhalekar0@gmail.com**
 
