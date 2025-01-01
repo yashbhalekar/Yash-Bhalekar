@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm YASH BHALEAKR</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Power Apps**
 
-- 💬 Ask me about **C , Python**
+- 💬 Ask me about **Python**
 
-- 📫 How to reach me **Yashbhalekar0@gmail.com**
+- 📫 How to reach me **yashbhalekarworks@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
